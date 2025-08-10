@@ -1,6 +1,11 @@
 # Crush Terminal Quick Start Guide
 
-Welcome to Crush! This guide will help you get up and running quickly with all the essential features.
+Crush is your new Claude Code https://github.com/charmbracelet/crush. 
+
+
+![471774478-58280caf-851b-470a-b6f7-d5c4ea8a1968](https://github.com/user-attachments/assets/8f8ec367-1d73-4c81-adcb-7a38cbbb6a0f)
+
+Try out the new hotness! 
 
 ## 📚 Table of Contents
 
@@ -19,7 +24,7 @@ Welcome to Crush! This guide will help you get up and running quickly with all t
 
 ## 📍 Configuration Location
 
-Crush uses **JSON** configuration (not YAML). The config file is loaded from these locations (in order of priority):
+Crush uses **JSON** configuration. The config file is loaded from these locations (in order of priority):
 
 1. **Local Project Config** (highest priority)
    - `.crush.json` or `crush.json` in your project directory
